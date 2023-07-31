@@ -1,5 +1,5 @@
 {
-  "name": "medusa-fulfillment-canadapost",
+  "name": "@nextlogique/medusa-fulfillment-canadapost",
   "version": "1.0.125",
   "description": "A Canada Post fulfillment provider for Medusa",
   "main": "index.js",
