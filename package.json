@@ -6,9 +6,9 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexghebo/medusa-fulfillment-canadapost.git"
+    "url": "https://github.com/shardanainggolan/medusa-fulfillment-canadapost.git"
   },
-  "author": "Vertical Digital",
+  "author": "Mahulae",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.7.5",

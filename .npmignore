@@ -1,8 +1,22 @@
+/lib
+node_modules
 .DS_store
-src
-dist
+.env*
+/*.js
+!index.js
 yarn.lock
+src
+.gitignore
+.eslintrc
 .babelrc
+.prettierrc
+build
+.cache
 
-.turbo
-.yarn
+# These are files that are included in a
+# Medusa project and can be removed from a
+# plugin project
+medusa-config.js
+Dockerfile
+medusa-db.sql
+develop.sh
