@@ -1,5 +1,5 @@
 {
-  "name": "@nextlogique/medusa-fulfillment-canadapost",
+  "name": "medusa-fulfillment-canadapost2",
   "version": "1.0.125",
   "description": "A Canada Post fulfillment provider for Medusa",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/shardanainggolan/medusa-fulfillment-canadapost.git"
   },
-  "author": "Mahulae",
+  "author": "@nextlogique",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.7.5",
